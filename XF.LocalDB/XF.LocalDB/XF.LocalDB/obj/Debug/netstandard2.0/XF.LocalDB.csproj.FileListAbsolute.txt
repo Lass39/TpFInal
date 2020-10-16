@@ -1,0 +1,36 @@
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.App.xaml.g.cs
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Aluno.MainPage.xaml.g.cs
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Aluno.NovoAlunoView.xaml.g.cs
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Locaalizacao.GeoLocalizaPage.xaml.g.cs
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csprojAssemblyReference.cache
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.App.xaml.g.cs
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Aluno.MainPage.xaml.g.cs
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Aluno.NovoAlunoView.xaml.g.cs
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Locaalizacao.GeoLocalizaPage.xaml.g.cs
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.App.xaml.g.cs
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Aluno.MainPage.xaml.g.cs
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Aluno.NovoAlunoView.xaml.g.cs
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.View.Locaalizacao.GeoLocalizaPage.xaml.g.cs
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb

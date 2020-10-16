@@ -1,0 +1,782 @@
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.Android.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB.apk
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB-Signed.apk
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.Android.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\build.props
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\adb.props
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res.flag
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\e1455bfca989b34bc2cec58ca6edcec59fa4356e.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\3aed4800a01a8c274412f6f4d5f2d1b63d6381c0.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\7d94739f9aafb5324c0455f5f1bd2f9f34a52691.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\905d0cfdb275aa31a642b57d7c5d1e4a1349c597.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\e3b48f7d7724d5dedd1b5501b863a3c11574cc2d.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\1e5fc56196b2756b9bae98643ec72f4e91668804.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\e1455bfca989b34bc2cec58ca6edcec59fa4356e.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\3aed4800a01a8c274412f6f4d5f2d1b63d6381c0.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\7d94739f9aafb5324c0455f5f1bd2f9f34a52691.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\905d0cfdb275aa31a642b57d7c5d1e4a1349c597.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\e3b48f7d7724d5dedd1b5501b863a3c11574cc2d.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\1e5fc56196b2756b9bae98643ec72f4e91668804.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\R.txt
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\R.cs.flag
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csproj.CopyComplete
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\com.companyname.XF.LocalDB.apk
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable\icon.png
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable-hdpi\icon.png
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable-xhdpi\icon.png
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable-xxhdpi\icon.png
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\uploadflags.txt
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\XF.LocalDB.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\FormsViewGroup.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.CurrentActivity.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.ExternalMaps.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.Geolocator.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.Permissions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLite-net.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLitePCLRaw.batteries_green.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLitePCLRaw.batteries_v2.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLitePCLRaw.core.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v4.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\XF.LocalDB.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Threading.Tasks.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Collections.Concurrent.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Collections.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Runtime.Extensions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Linq.Expressions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Reflection.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Diagnostics.Debug.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Linq.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Threading.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Reflection.Extensions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Globalization.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.ObjectModel.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.ComponentModel.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Xml.ReaderWriter.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.IO.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Dynamic.Runtime.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Text.RegularExpressions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\netstandard.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Data.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Transactions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\SQLite-net.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\XF.LocalDB.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\XF.LocalDB.Android.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\FormsViewGroup.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Plugin.ExternalMaps.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\link.flag
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\FormsViewGroup.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.CurrentActivity.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.Geolocator.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.Permissions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLite-net.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Collections.Concurrent.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ComponentModel.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.Android.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.Android.dll.mdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.dll
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.pdb
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\static.flag
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\buildid.txt
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\media\RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\graphics\Palette_PaletteAsyncListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnCloseListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnQueryTextListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\mediarouter\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonDrawable.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer_TextFieldClickHandler.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationMenuRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationMenuRenderer_MenuAdapter.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationMenuRenderer_MenuElementView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer_PickerListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer_StepperListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer_TimePickerListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ToolbarButton.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ToolbarImageButton.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_WebClient.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer_ButtonClickListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer_ButtonTouchListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer_PickerListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md55726117dc5e94a0307828e5aaa0c78af\MainActivity.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md56aabda7acd4abaa2b1d1169cd8c7c6ee\GeolocationContinuousListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md56aabda7acd4abaa2b1d1169cd8c7c6ee\GeolocationSingleListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\md52784b6b6564df579ab09ba8bad5c54dd\ActivityLifecycleContextListener.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\com\companyname\xf\localdb\R.java
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\profe\source\repos\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\build.props
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\adb.props
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csprojAssemblyReference.cache
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res.flag
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.dll
+C:\Users\Lass\Downloads\Programação para dispositivos moveis-20200917T023851Z-001\Programação para dispositivos moveis\Prova2\Prova2\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.Android.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.Android.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB.apk
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB.aab
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB-Signed.aab
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB-Signed.apk
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\com.companyname.XF.LocalDB-Signed.apk.idsig
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.Android.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\bin\Debug\XF.LocalDB.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\build.props
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\adb.props
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csprojAssemblyReference.cache
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res.flag
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\R.txt
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\R.cs.flag
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csproj.CoreCompileInputs.cache
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csproj.CopyComplete
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\com.companyname.XF.LocalDB.apk
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\com.companyname.XF.LocalDB.aab
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\com.companyname.XF.LocalDB.apks
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable\icon.png
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable-hdpi\icon.png
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable-xhdpi\icon.png
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\drawable-xxhdpi\icon.png
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.CurrentActivity.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.Abstractions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.Abstractions.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.ExternalMaps.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.Geolocator.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Plugin.Permissions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLite-net.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Collections.Concurrent.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ComponentModel.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.IO.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.Android.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.Android.dll.mdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.dll
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\XF.LocalDB.pdb
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\__environment__.txt
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\static.flag
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\buildid.txt
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\mediarouter\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonDrawable.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer_TextFieldClickHandler.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationMenuRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationMenuRenderer_MenuAdapter.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationMenuRenderer_MenuElementView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer_PickerListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer_StepperListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer_TimePickerListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ToolbarButton.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ToolbarImageButton.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_WebClient.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer_PickerListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc649efb5bdbf2d8cfa5\GeolocationContinuousListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc649efb5bdbf2d8cfa5\GeolocationSingleListener.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64a6aaef2c9b463329\MainActivity.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnCloseListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SearchViewCompat_OnQueryTextListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\graphics\Palette_PaletteAsyncListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\media\RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\src\com\companyname\xf\localdb\R.java
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Lass\Desktop\Nova pasta (2)\Fiap.Xamarin\Complete\XF.LocalDB\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwbjveG1+n0UySRYCMz9LkXfbSguJ1FmU6uwR7kB9IlJ0zirIkGovwCDRG9sJgO0+lCvX17G7CYBQ6sjb92gIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lass\\Desktop\\Nova pasta (2)\\Fiap.Xamarin\\Complete\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB\\XF.LocalDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lass\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\sqlite-net-pcl\\1.4.118\\sqlite-net-pcl.1.4.118.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.5\\sqlitepclraw.bundle_green.1.1.5.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\sqlitepclraw.core\\1.1.5\\sqlitepclraw.core.1.1.5.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\xam.plugin.externalmaps\\4.0.1\\xam.plugin.externalmaps.4.0.1.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\Lass\\.nuget\\packages\\xamarin.forms\\2.5.0.122203\\xamarin.forms.2.5.0.122203.nupkg.sha512"
+  ],
+  "logs": []
+}
