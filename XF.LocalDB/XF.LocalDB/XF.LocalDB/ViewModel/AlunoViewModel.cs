@@ -110,7 +110,7 @@ namespace XF.LocalDB.ViewModel
             if (pesquisaPorNome == null) { 
             pesquisaPorNome = "";
         }
-            var resultado = CopiaListaAlunos.ToList();
+            var resultado = CopiaListaAlunos    .ToList();
 
             var removerDaLista = Alunos.Except(resultado).ToList();
             foreach (var item in removerDaLista)
@@ -147,7 +147,7 @@ namespace XF.LocalDB.ViewModel
         public async void Remover()
         {
             if (await App.Current.MainPage.DisplayAlert("Atenção?",
-                string.Format("Tem certeza que deseja remover o livro {0}?", Selecionado.NomeMerca), "Sim", "Não"))
+                string.Format("Tem certeza que deseja remover a mercadoria {0}?", Selecionado.NomeMerca), "Sim", "Não"))
             {
                 if (AlunoRepository.RemoverAluno(Selecionado.Id) > 0)
                 {
